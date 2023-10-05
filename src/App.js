@@ -5,7 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <div className="timer">10:00:00</div>
         <p>
           안녕하세요 윤선지입니다.
         </p>
