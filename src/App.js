@@ -4,19 +4,12 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+      <header className="App-header" style={{border: '1px solid red'}}>
+        <div className="title">title 입니다.</div>
+        <div>discription 영역 입니다.</div>
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          안녕하세요 윤선지입니다.
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
