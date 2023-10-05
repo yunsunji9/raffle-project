@@ -4,9 +4,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header" style={{border: '1px solid red'}}>
-        <div className="title">title 입니다.</div>
-        <div>discription 영역 입니다.</div>
+      <header className="App-header">
+        <div className="timer">10:00:00</div>
         <p>
           안녕하세요 윤선지입니다.
         </p>
