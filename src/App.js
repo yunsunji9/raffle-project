@@ -6,6 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header" style={{border: '1px solid red'}}>
         <div className="title">title 입니다.</div>
+        <div>discription 영역 입니다.</div>
         <p>
           안녕하세요 윤선지입니다.
         </p>
